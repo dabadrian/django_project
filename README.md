@@ -6,7 +6,7 @@ Este es el proyecto utilizando el framework Django
 
 ## Authors
 
-- [@dabadrian](https://github.com/dabadrian/)
+- [@dabadrian](https://github.com/dabadrian/) Daniel A. Blanco Adrian
 
 
 ## Setup
