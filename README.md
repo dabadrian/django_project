@@ -21,7 +21,8 @@ py -m venv venv
 
 Clonar el proyecto. Ejecutar venv:
 ```bash
-.\venv\Scripts\activate  
+.\venv\Scripts\activate
+pip install django
 ```
 
 En la raiz del proyecto:
